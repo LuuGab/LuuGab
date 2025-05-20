@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Sou Lucas!
 
-<!--
-**LuuGab/LuuGab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+— 👨‍🎓 Atualmente, Estudante Universitário de Ciências da Computação!
 
-Here are some ideas to get you started:
+— 💻 Unidade Curricular em Estudo:
+ㅤ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Programação de Soluções Computacionais
+- 📖 Modelagem de Software
+ㅤ
+
+— 💻 Ferramentas de Estudo:
+ㅤ
+
+- ☕ Java / Visual Studio Code
+- 🐬 MySQL Workbench
+- 🟠 Draw.io
