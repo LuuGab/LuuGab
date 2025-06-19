@@ -14,5 +14,3 @@
 
 - ☕ Java / Visual Studio Code / APACHE NetBeans
 - 🐬 MySQL Workbench
-- 🟠 Draw.io
-- 🟢 brModelo
