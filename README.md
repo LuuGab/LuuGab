@@ -1,16 +1,21 @@
 ## Olá! Sou Lucas!
 
-— 👨‍🎓 Atualmente, Estudante Universitário de Ciências da Computação!
+— 👨‍🎓 Estudante Universitário de Ciências da Computação!
 
-— 💻 Unidade Curricular em Estudo:
-ㅤ
+— 💻 Ferramentas de Modelagem UML (Unified Modeling Language)
+- 🔹 draw.io
+- 🔹 brModelo
 
-- 📖 Programação de Soluções Computacionais
-- 📖 Modelagem de Software
-ㅤ
+— 💻 Linguagens de Programação:
+- ☕ Java
 
-— 💻 Ferramentas de Estudo:
-ㅤ
+— 💻 IDEs (Integrated Development Environment):
+- 🔹 Visual Studio Code
+- 🔹 Apache NetBeans
+- 🔹 Eclipse IDE
 
-- ☕ Java / Visual Studio Code / APACHE NetBeans
+— 💻 APIs (Application Programming Interface):
+- 🔹 JDBC (Java Data Base Connectivity)
+
+— 💻 DBMS (Data Base Management System):
 - 🐬 MySQL Workbench
