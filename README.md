@@ -1,19 +1,16 @@
 ## Olá! Sou Lucas! Estudante Universitário de Ciências da Computação!
 
-— 💻 Ferramentas de Modelagem UML (Unified Modeling Language)
-- 🔹 draw.io
-- 🔹 brModelo
-
 — 💻 Linguagens de Programação:
 - ☕ Java
+
+— 💻 DBMS (Data Base Management System):
+- 🐬 MySQL Workbench
 
 — 💻 IDEs (Integrated Development Environment):
 - 🔹 Visual Studio Code
 - 🔹 Apache NetBeans
 - 🔹 Eclipse IDE
 
-— 💻 APIs (Application Programming Interface):
-- 🔹 JDBC
-
-— 💻 DBMS (Data Base Management System):
-- 🐬 MySQL Workbench
+— 💻 Ferramentas de Modelagem UML (Unified Modeling Language)
+- 🔹 draw.io
+- 🔹 brModelo
