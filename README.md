@@ -1,6 +1,4 @@
-## Olá! Sou Lucas!
-
-— 👨‍🎓 Estudante Universitário de Ciências da Computação!
+## Olá! Sou Lucas! Estudante Universitário de Ciências da Computação!
 
 — 💻 Ferramentas de Modelagem UML (Unified Modeling Language)
 - 🔹 draw.io
