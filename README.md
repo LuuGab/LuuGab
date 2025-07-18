@@ -6,19 +6,29 @@ Me chamo Lucas Gabriel, tenho 20 anos de idade, e atualmente estou graduando no 
 
 ---
 
+<br>
+
 — 💻 Linguagens de Programação:
 - ☕ Java
 
+<br>
+
 — 💻 DBMS (Data Base Management System):
 - 🐬 MySQL Workbench
+
+<br>
 
 — 💻 IDEs (Integrated Development Environment):
 - 🔹 Visual Studio Code
 - 🔹 Apache NetBeans
 - 🔹 Eclipse IDE
 
+<br>
+
 — 💻 Ferramentas de Modelagem UML (Unified Modeling Language)
 - 🔹 draw.io
 - 🔹 brModelo
+
+<br>
 
 ---
