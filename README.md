@@ -2,7 +2,7 @@
 
 **`Undergraduate Student in Computer Science`**
 
-Me chamo Lucas Gabriel, tenho 20 anos de idade, e atualmente estou graduando no curso de Ciências da Computação no Centro Universitário UNA. Ao decorrer de minha jornada acadêmica estou  adquirindo noções sobre diversos ramos no que diz respeito a tecnologia.
+Me chamo Lucas Gabriel, tenho 20 anos de idade, e atualmente estou graduando no curso de Ciências da Computação no Centro Universitário UNA. Ao decorrer da minha jornada acadêmica estou adquirindo e desenvolvendo uma ampla gama de conhecimentos no que diz respeito ao setor tecnológico, bem como a sua real praticidade no mercado de trabalho.
 
 ---
 
