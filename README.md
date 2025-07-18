@@ -2,7 +2,7 @@
 
 **`Undergraduate Student in Computer Science`**
 
-Me chamo Lucas Gabriel, e atualmente estou graduando no curso de Ciências da Computação no Centro Universitário UNA. Ao decorrer da minha jornada acadêmica estou adquirindo e desenvolvendo uma ampla gama de conhecimentos no que diz respeito ao setor tecnológico, bem como a sua real praticidade no mercado de trabalho.
+Me chamo Lucas Gabriel, e atualmente estou graduando no curso de Ciências da Computação no Centro Universitário UNA. Ao decorrer de minha jornada acadêmica estou adquirindo e desenvolvendo uma ampla gama de conhecimentos diversos no que diz respeito ao setor tecnológico, bem como a sua real praticidade no mercado de trabalho.
 
 ---
 
