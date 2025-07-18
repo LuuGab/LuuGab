@@ -6,6 +6,9 @@ Me chamo Lucas Gabriel, tenho 20 anos de idade, e atualmente estou graduando no 
 
 ---
 
+— 💻 Ferramentas de Versionamento:
+- 🔸 Git
+
 <br>
 
 — 💻 Linguagens de Programação:
