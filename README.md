@@ -32,6 +32,8 @@ Eu me chamo Lucas Gabriel, e atualmente estou graduando no curso de Ciências da
 - 🔹 draw.io
 - 🔹 brModelo
 
+<br>
+
 ### 📊 Estatísticas
 
 <p>
