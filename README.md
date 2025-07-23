@@ -36,6 +36,8 @@
 
 <br>
 
+---
+
 ### 📊 Estatísticas
 
   <img 
