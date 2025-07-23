@@ -34,8 +34,6 @@
 - 🔹 draw.io
 - 🔹 brModelo
 
-<br>
-
 ---
 
 ### 📊 Estatísticas
