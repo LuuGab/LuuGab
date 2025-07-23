@@ -8,29 +8,29 @@
 
 ---
 
-— 💻 Ferramentas de Versionamento:
+**— 💻 Ferramentas de Versionamento:**
 - 🔸 Git
 
 <br>
 
-— 💻 Linguagens de Programação:
+**— 💻 Linguagens de Programação:**
 - ☕ Java
 
 <br>
 
-— 💻 DBMS (Data Base Management System):
+**— 💻 DBMS (Data Base Management System):**
 - 🐬 MySQL Workbench
 
 <br>
 
-— 💻 IDEs (Integrated Development Environment):
+**— 💻 IDEs (Integrated Development Environment):**
 - 🔹 Visual Studio Code
 - 🔹 Apache NetBeans
 - 🔹 Eclipse IDE
 
 <br>
 
-— 💻 Ferramentas de Modelagem UML (Unified Modeling Language)
+**— 💻 Ferramentas de Modelagem UML (Unified Modeling Language):**
 - 🔹 draw.io
 - 🔹 brModelo
 
