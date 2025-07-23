@@ -43,12 +43,11 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuuGab&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LuuGab&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br&rank_icon=github" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luugab&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuGab&layout=donut&theme=holi&locale=en&hide_progress=false" 
+    alt="Most Used Languages"
+    height="195"
   />
