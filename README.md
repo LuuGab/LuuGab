@@ -18,6 +18,12 @@
 
 <br>
 
+**— 💻 Linguagens de Marcação / Estilização:**
+- 🟧 HTML
+- 🟦 CSS
+
+<br>
+
 **— 💻 DBMS (Data Base Management System):**
 - 🐬 MySQL Workbench
 
