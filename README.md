@@ -32,7 +32,7 @@
 **— 💻 IDEs (Integrated Development Environment):**
 - 🔹 Visual Studio Code
 - 🔹 Apache NetBeans
-- 🔹 Eclipse IDE
+- 🔹 IntelliJ IDEA
 
 <br>
 
