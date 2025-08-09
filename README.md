@@ -34,12 +34,6 @@
 - 🔹 Apache NetBeans
 - 🔹 IntelliJ IDEA
 
-<br>
-
-**— 💻 Ferramentas de Modelagem UML (Unified Modeling Language):**
-- 🔹 draw.io
-- 🔹 brModelo
-
 ---
 
   <img 
