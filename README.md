@@ -7,7 +7,7 @@
 ---
 
 <p align="justify">
-  Me chamo <b>Lucas Gabriel</b> e atualmente sou graduando em <b>Ciência da Computação</b> pelo Centro Universitário UNA. Ao longo da minha jornada acadêmica, venho adquirindo uma ampla gama de conhecimentos na área da tecnologia, com foco tanto na base teórica quanto em suas aplicações práticas no mercado de trabalho.
+  Me chamo <b>Lucas Gabriel</b>, e atualmente sou estudante de <b>Ciência da Computação</b> no Centro Universitário UNA. Ao longo da minha jornada acadêmica, venho adquirindo uma ampla gama de conhecimentos na área da tecnologia, com foco tanto na base teórica quanto em suas aplicações práticas no mercado de trabalho.
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuuGab&bg_color=00000000&color=5090CB&line=5090CB&point=E1EAF5&hide_border=true&height=200)
