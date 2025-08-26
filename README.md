@@ -7,7 +7,7 @@
 ---
 
 <p align="justify">
-  Me chamo <b>Lucas Gabriel</b>, sou entusiasta por tecnologia e atualmente sou estudante de <b>Ciência da Computação</b> no Centro Universitário UNA.
+  Me chamo <b>Lucas Gabriel</b>, sou entusiasta por tecnologia e atualmente estudante de <b>Ciência da Computação</b> no Centro Universitário UNA.
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuuGab&bg_color=00000000&color=5090CB&line=5090CB&point=E1EAF5&hide_border=true&height=200)
