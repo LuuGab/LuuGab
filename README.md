@@ -18,7 +18,7 @@
 <br>
 
 <p align="justify">
-  A princípio, meus planos de estudos são direcionados ao setor de Desenvolvimento, com o interesse de operar no campo de atuação Back-End. Para isso, tenho me aprofundado em diversas áreas e tecnologias deste ramo em questão, como Linguagens de Programação, Bancos de Dados SQL e NoSQL, Sistemas Distribuídos, e Padrões Arquiteturais. Além disso, venho reforçando a minha stack com recursos voltados ao Desenvolvimento Web Front-End, como o HTML e CSS.
+  A princípio, meus planos de estudos são direcionados ao setor de Desenvolvimento, com o interesse de operar no campo de atuação Back-End. Para isso, tenho me aprofundado em diversas áreas e tecnologias deste ramo em questão, como Linguagens de Programação, Bancos de Dados SQL e NoSQL, Sistemas Distribuídos, e Padrões Arquiteturais. Além disso, venho ampliando a minha stack com recursos voltados ao Desenvolvimento Web Front-End, como o HTML e CSS.
 </p>
 
 <br>
