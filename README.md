@@ -18,7 +18,7 @@
 <br>
 
 <p align="justify">
-  Tenho direcionado meus estudos para a área de Desenvolvimento Back-End, aprofundando-me em diversas tecnologias deste ramo em questão, como Linguagens de Programação, Bancos de Dados SQL e NoSQL, Sistemas Distribuídos, e Padrões Arquiteturais. Além disso, venho ampliando a minha stack com recursos voltados ao Desenvolvimento Web Front-End, como o HTML e CSS.
+  Tenho direcionado meus estudos para a área de Desenvolvimento Back-End, aprofundando-me em diversas tecnologias deste ramo em questão, como Linguagens de Programação, Bancos de Dados SQL e NoSQL, Sistemas Distribuídos, e Padrões Arquiteturais. Além disso, venho ampliando a minha stack com recursos voltados ao Desenvolvimento Web Front-End, como o HTML, CSS e JavaScript.
 </p>
 
 <br>
