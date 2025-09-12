@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <b>💻 Desenvolvedor em Desenvolvimento! • 🎓 Graduando em Ciências da Computação • 🛠 Tecnologia, Inovação!</b>
+  <b>💻 Desenvolvedor em Desenvolvimento! • 🎓 Graduando em Ciências da Computação • 🛠 Tecnologia e Inovação!</b>
 </p>
 
 <div align="center">
