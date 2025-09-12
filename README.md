@@ -6,29 +6,56 @@
 
 ---
 
+<br>
+
 <p align="center">
-  Sou <b>Lucas Gabriel</b>, estudante de <b>Ciência da Computação</b> com grande interesse por tecnologia, inovação e desenvolvimento profissional.
+  <b>💻 Desenvolvedor em Desenvolvimento! • 🎓 Graduando em Ciências da Computação • 🛠 Tecnologia, Inovação!</b>
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuuGab&bg_color=00000000&color=5090CB&line=5090CB&point=E1EAF5&hide_border=true&height=225)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LuuGab&hide_border=true&background=00000000&ring=5090CB&fire=5090CB&currStreakLabel=5090CB&sideNums=5090CB&currStreakNum=5090CB&sideLabels=5090CB&dates=5090CB" height="225"/>
+</div>
 
 ---
 
-<br>
+<h3>⚙ Ferramentas & Tecnologias</h3>
 
 <p align="justify">
-  Tenho direcionado meus estudos para a área de Desenvolvimento Back-End, aprofundando-me em diversas tecnologias deste ramo em questão, como Linguagens de Programação, Bancos de Dados SQL e NoSQL, Sistemas Distribuídos, e Padrões Arquiteturais. Além disso, venho ampliando a minha stack com recursos voltados ao Desenvolvimento Web Front-End, como o HTML, CSS e JavaScript.
+  Atualmente tenho direcionado meus estudos para a área de Desenvolvimento Back-End, aprofundando-me em diversas tecnologias do ramo, como Linguagens de Programação, Bancos de Dados, Sistemas Distribuídos, e Padrões Arquiteturais. Além disso, venho ampliando a minha stack com recursos voltados ao Desenvolvimento Web Front-End, como HTML, CSS e JavaScript.
 </p>
 
 <br>
 
-<p align="center">
+<p><b>• Linguagens:</b></p>
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,python,html,css,js,vscode,idea,eclipse,firebase" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js" width="200" />
   </a>
 </p>
 
-<br>
+<p><b>• Desenvolvimento | IDEs:</b></p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,firebase" width="175" />
+  </a>
+</p>
+
+<p><b>• Bancos de Dados | SGBDs:</b></p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" width="35" />
+  </a>
+</p>
+
+<p><b>• Softwares de Versionamento:</b></p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" width="75" />
+  </a>
+</p>
 
 ---
