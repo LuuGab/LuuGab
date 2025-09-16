@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css" width="175" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css" width="160" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,firebase" width="175" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,firebase" width="160" />
   </a>
 </p>
 
