@@ -58,12 +58,4 @@
   </a>
 </p>
 
-<p><b>• Softwares de Versionamento:</b></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" width="75" />
-  </a>
-</p>
-
 ---
