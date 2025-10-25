@@ -34,22 +34,6 @@
   </a>
 </p>
 
-<p><b>• Frameworks:</b></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask" width="35" />
-  </a>
-</p>
-
-<p><b>• Desenvolvimento | IDEs:</b></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,firebase" width="160" />
-  </a>
-</p>
-
 <p><b>• Bancos de Dados | SGBDs:</b></p>
 
 <p align="left">
