@@ -34,12 +34,4 @@
   </a>
 </p>
 
-<p><b>• Bancos de Dados | SGBDs:</b></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" width="35" />
-  </a>
-</p>
-
 ---
