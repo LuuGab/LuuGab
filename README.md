@@ -17,21 +17,3 @@
 </div>
 
 ---
-
-<h3>⚙ Ferramentas & Tecnologias</h3>
-
-<p align="justify">
-  Atualmente tenho direcionado meus estudos para a área de Desenvolvimento Back-End, aprofundando-me em diversas tecnologias do ramo, como Linguagens de Programação, Bancos de Dados, Sistemas Distribuídos, e Padrões Arquiteturais. Além disso, venho ampliando a minha stack com recursos voltados ao Desenvolvimento Web Front-End, como HTML, CSS e JavaScript.
-</p>
-
-<br>
-
-<p><b>• Linguagens:</b></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css" width="200" />
-  </a>
-</p>
-
----
